@@ -1,0 +1,13 @@
+.header {
+    background-color: red;
+    text-align: center;
+    color: white;
+    text-shadow: 4px 4px 7px #666666;
+    border-radius: 4em 4em 1em 1em;
+}
+
+h4 {
+    font-weight: bold;
+    color: red;
+    text-shadow: 4px 4px 7px #666666;
+}
