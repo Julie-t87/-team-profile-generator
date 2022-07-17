@@ -1,5 +1,5 @@
 .header {
-    background-color: red;
+    background-color: rgb(110, 237, 207);
     text-align: center;
     color: white;
     text-shadow: 4px 4px 7px #666666;
@@ -8,6 +8,6 @@
 
 h4 {
     font-weight: bold;
-    color: red;
+    color: rgb(249, 247, 247);
     text-shadow: 4px 4px 7px #666666;
 }
